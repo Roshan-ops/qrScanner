@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+
+.title{
+  display:flex;
+  justify-content: center;
+  align-items:center;
+  background:#3f51b5;
+  color: #fff;
+  padding: 20px;
+}
+.container{
+  margin-top:10px;
+}
+.btn{
+  margin-top: 10px;
+  margin-left: 5px;
+  margin-bottom: 20px;
+}
+.QrReader{
+  width: 100%;
+  
+}
+  
+
